@@ -1,0 +1,13 @@
+May  9 22:04:22 dnsmasq[328]: started, version pi-hole-2.85 cachesize 10000
+May  9 22:04:22 dnsmasq[328]: compile time options: IPv6 GNU-getopt no-DBus no-UBus no-i18n IDN DHCP DHCPv6 Lua TFTP no-conntrack ipset auth cryptohash DNSSEC loop-detect inotify dumpfile
+May  9 22:04:22 dnsmasq[328]: using only locally-known addresses for domain use-application-dns.net
+May  9 22:04:22 dnsmasq[328]: using nameserver 1.0.0.1#53
+May  9 22:04:22 dnsmasq[328]: using nameserver 1.1.1.1#53
+May  9 22:04:23 dnsmasq[412]: started, version pi-hole-2.85 cachesize 10000
+May  9 22:04:23 dnsmasq[412]: compile time options: IPv6 GNU-getopt no-DBus no-UBus no-i18n IDN DHCP DHCPv6 Lua TFTP no-conntrack ipset auth cryptohash DNSSEC loop-detect inotify dumpfile
+May  9 22:04:23 dnsmasq[412]: using only locally-known addresses for domain use-application-dns.net
+May  9 22:04:23 dnsmasq[412]: using nameserver 1.0.0.1#53
+May  9 22:04:23 dnsmasq[412]: using nameserver 1.1.1.1#53
+May  9 22:04:23 dnsmasq[412]: read /etc/hosts - 7 addresses
+May  9 22:04:23 dnsmasq[412]: read /etc/pihole/custom.list - 1 addresses
+May  9 22:04:23 dnsmasq[412]: read /etc/pihole/local.list - 2 addresses
