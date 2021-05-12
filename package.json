@@ -1,0 +1,24 @@
+{
+  "name": "pi-hole-dns-log-parser",
+  "version": "1.0.0",
+  "description": "Parser for Pi-hole DNS logs",
+  "main": "parser.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "keywords": [
+    "pi-hole",
+    "dnsmasq",
+    "logs",
+    "log",
+    "dns",
+    "parse",
+    "parser"
+  ],
+  "author": "Evan Shortiss <evanshortiss@gmail.com> (https://evanshortiss.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/tape": "^4.13.0",
+    "tape": "^5.2.2"
+  }
+}
